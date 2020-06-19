@@ -8,6 +8,10 @@ with Periodic Activation Functions](https://arxiv.org/abs/2006.09661) | [Website
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Q2fLWGBeaiI/0.jpg)](https://www.youtube.com/watch?v=Q2fLWGBeaiI)
 
+### Swish
+* [Paper](https://arxiv.org/pdf/1710.05941.pdf)
+* Slightly better than ReLU. Simply subsitute Swish activation with every other ReLU activation
+
 ### EvoNorms
  [Evolving Normalization-Activation Layers](https://arxiv.org/pdf/2004.02967.pdf)
  
