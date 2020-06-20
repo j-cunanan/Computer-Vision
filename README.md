@@ -5,7 +5,7 @@ This repository will comprise of papers, expositions, videos, and links to sourc
 ### Fourier Features
 * [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739) | [Project page](https://people.eecs.berkeley.edu/~bmild/fourfeat/)
 
-![demo](./ff_tifa.mp4)
+![demo](./ff_tifa.gif)
 
 ## Activation functions
 ### SIREN
