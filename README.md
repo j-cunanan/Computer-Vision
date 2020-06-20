@@ -6,9 +6,7 @@ This repository will comprise of papers, expositions, videos, and links to sourc
 * [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739) | [Project page](https://people.eecs.berkeley.edu/~bmild/fourfeat/)
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://github.com/j-cunanan/Computer-Vision/blob/master/ff_tifa.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://drive.google.com/file/d/14UlFbJHcGB7boqwfAhHFn_YU0iBg_QYP/view" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## Activation functions
