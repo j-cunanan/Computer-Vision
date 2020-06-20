@@ -1,10 +1,20 @@
 # Computer-Vision
 This repository will comprise of papers, expositions, videos, and links to source code of works related to advancement in computer vision.
 
+## Feature Augmentations
+### Fourier Features
+* [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739) | [Project page](https://people.eecs.berkeley.edu/~bmild/fourfeat/)
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/j-cunanan/Computer-Vision/blob/master/ff_tifa.mp4" type="video/mp4">
+  </video>
+</figure>
+
 ## Activation functions
 ### SIREN
 * [Implicit Neural Representations
-with Periodic Activation Functions](https://arxiv.org/abs/2006.09661) | [Website](https://vsitzmann.github.io/siren/)
+with Periodic Activation Functions](https://arxiv.org/abs/2006.09661) | [Project page](https://vsitzmann.github.io/siren/)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Q2fLWGBeaiI/0.jpg)](https://www.youtube.com/watch?v=Q2fLWGBeaiI)
 
